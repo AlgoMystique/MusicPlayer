@@ -27,6 +27,3 @@ This is a modern music player built using HTML, CSS, and JavaScript. It allows u
 ### Demo
 
 [View a live demo here](https://algomystique.github.io/MusicPlayer)
-
-
-
