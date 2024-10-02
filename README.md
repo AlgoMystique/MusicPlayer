@@ -4,26 +4,26 @@ This is a modern music player built using HTML, CSS, and JavaScript. It allows u
 
 ![Music Player Screenshot](screenshot.png) 
 
-## Features
+## Features:
 
 - Play, pause, and stop functionality with a click.
 - Polished and modern UI design.
 - Gradient background for a visually appealing experience.
 - Responsive layout for mobile and desktop devices.
 
-## Technologies Used
+## Technologies Used:
 
 - **HTML5**: For structuring the music player.
 - **CSS3**: For styling, including the gradient background and polished UI.
 - **JavaScript (Vanilla)**: For handling music controls (play, pause, stop).
 
-### How to Use
+### How to Use:
 
 - Click the **Play** button to start the song.
 - Click the **Pause** button to pause it at any time.
 - Click the **Stop** button to end the song.
 
 
-### Demo
+### Live-Demo:
 
 [View a live demo here](https://algomystique.github.io/MusicPlayer)
